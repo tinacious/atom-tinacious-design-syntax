@@ -1,0 +1,23 @@
+{
+  "name": "tinacious-design-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "author": "Tina Holly <info@tinaciousdesign.com>",
+  "description": "A dark syntax theme that uses bright pink, blue, purple, turquoise and orange.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "pink",
+    "blue",
+    "dark",
+    "bright",
+    "orange",
+    "easter",
+    "gray"
+  ],
+  "repository": "https://github.com/atom/tinacious-design-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
