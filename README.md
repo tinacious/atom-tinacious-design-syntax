@@ -42,5 +42,6 @@ The font used in the Atom editor is [Inconsolata](https://www.fontsquirrel.com/f
 
 ## Changelog
 
-### 0.1.0 - Initial Release
-- Initial release
+| Date         | Version | Change          |
+|:-------------|:--------|:----------------|
+| 4 April 2016 | 0.1.0   | Initial release |
